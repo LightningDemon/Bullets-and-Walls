@@ -1,4 +1,4 @@
-var car,Bullet
+var wall,Bullet
  
 var speed;
 var weight;
